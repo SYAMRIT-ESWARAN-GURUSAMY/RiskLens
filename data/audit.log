@@ -1,0 +1,135 @@
+2026-07-24T22:06:29.082309400 | LOGIN | Authenticated account 1001001 | previous=GENESIS | hash=6dab30a65951cbbca268af048e1f7323e08df7981c8c6266561d147abfb1d206
+2026-07-24T22:06:41.138183400 | LOGIN | Authenticated account 1001001 | previous=6dab30a65951cbbca268af048e1f7323e08df7981c8c6266561d147abfb1d206 | hash=a148f521b8cea8612a0028edf721320cd14853ce40a7eec990de686996f3fc08
+2026-07-24T22:06:44.649403200 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=a148f521b8cea8612a0028edf721320cd14853ce40a7eec990de686996f3fc08 | hash=978c695372f686418befa368b67ceb0c468132b03f92c0216740e638a7c8d58c
+2026-07-24T22:06:44.661248300 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=978c695372f686418befa368b67ceb0c468132b03f92c0216740e638a7c8d58c | hash=b633c0f9838a614cc80616b8959eccf4bd19ae5ad82fa6c16d6004b9ba5dd1d5
+2026-07-24T22:06:44.677132300 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=b633c0f9838a614cc80616b8959eccf4bd19ae5ad82fa6c16d6004b9ba5dd1d5 | hash=24366c053522d09ab19b8f0adc9ee324418ac33591628cbdef656482fa1083c5
+2026-07-24T22:06:44.680919200 | CHALLENGE | Risk score: 60 | Decision: CHALLENGE
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40) | previous=24366c053522d09ab19b8f0adc9ee324418ac33591628cbdef656482fa1083c5 | hash=1263c34a09c70b53d1a26e18f51c8e3bca0ee7370e293c0e9f6cbd12a18eae10
+2026-07-24T22:06:47.256072700 | CHALLENGE | Risk score: 60 | Decision: CHALLENGE
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40) | previous=1263c34a09c70b53d1a26e18f51c8e3bca0ee7370e293c0e9f6cbd12a18eae10 | hash=db36fbca3e9a6c5d3c8ff464b665b8a48aa924945094bfa9deabac33284ed58f
+2026-07-24T22:11:05.901234300 | LOGIN | Authenticated account 1001001 | previous=db36fbca3e9a6c5d3c8ff464b665b8a48aa924945094bfa9deabac33284ed58f | hash=9d16af4a6bde0b316cac210114d05e3820f6ee70971ff2862253a7174d42944d
+2026-07-24T22:11:08.065749200 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=9d16af4a6bde0b316cac210114d05e3820f6ee70971ff2862253a7174d42944d | hash=afbe7aa7c5515a65534f63802cd9a82f139449b298f306d58c9ce9f6205f540a
+2026-07-24T22:11:08.071799200 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=afbe7aa7c5515a65534f63802cd9a82f139449b298f306d58c9ce9f6205f540a | hash=bf0f0ec8af7c4905248d6d575d8ec70cb0548196e5534f6de8fdc33a99a8b124
+2026-07-24T22:11:08.078420300 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=bf0f0ec8af7c4905248d6d575d8ec70cb0548196e5534f6de8fdc33a99a8b124 | hash=a23c599259acebde78077374bae5b936ee3e902959e02378d434af341e2f1a03
+2026-07-24T22:11:08.083610500 | CHALLENGE | Risk score: 60 | Decision: CHALLENGE
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40) | previous=a23c599259acebde78077374bae5b936ee3e902959e02378d434af341e2f1a03 | hash=43737ad77adff19688b1ef76754ad565e9d97bb702ed793a1b261c8eda571009
+2026-07-24T22:11:33.840359700 | LOGIN | Authenticated account 1001001 | previous=43737ad77adff19688b1ef76754ad565e9d97bb702ed793a1b261c8eda571009 | hash=538fe187fa75233c412dea4589773e7c2f8c422ed90fc1c2c42ea2fefe001894
+2026-07-25T11:38:44.169515300 | LOGIN | Authenticated account 1001001 | previous=538fe187fa75233c412dea4589773e7c2f8c422ed90fc1c2c42ea2fefe001894 | hash=79bdaee85df2199f20d2da6f7ba3455bdca438861fb54e0021a3bfe11eabda68
+2026-07-25T11:38:52.069475900 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=79bdaee85df2199f20d2da6f7ba3455bdca438861fb54e0021a3bfe11eabda68 | hash=82688e2ea14560fd636163da345f0eddd6b01c8298c36b3fe6abfe79e2df1356
+2026-09-08T10:08:45.829297700 | LOGIN | Authenticated account 1001001 | previous=82688e2ea14560fd636163da345f0eddd6b01c8298c36b3fe6abfe79e2df1356 | hash=6e9a884bde975a365750a5e03485b33a73cd5dc7c2d993c24ff08b462739a127
+2026-09-08T10:08:45.856421200 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=6e9a884bde975a365750a5e03485b33a73cd5dc7c2d993c24ff08b462739a127 | hash=298ecfe8419f3531f377d19bf7c3ed5702e265692f7f406b5f2892f08777c36b
+2026-09-08T10:08:45.882890500 | FROZEN | Risk score: 115 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Withdrawal reaches the configured daily limit (+45)
+- High-value transaction shortly after PIN change (+15) | previous=298ecfe8419f3531f377d19bf7c3ed5702e265692f7f406b5f2892f08777c36b | hash=37269574db31c121bcba4af574f693399e158086213d445005462aaa493ff27f
+2026-09-08T10:11:19.241148 | LOGIN | Authenticated account 1001001 | previous=37269574db31c121bcba4af574f693399e158086213d445005462aaa493ff27f | hash=b9a1cbd2a1e3b97d7bd834b159f701c172ea78fac70237a4184badc5a6899a98
+2026-09-08T10:11:19.263691700 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=b9a1cbd2a1e3b97d7bd834b159f701c172ea78fac70237a4184badc5a6899a98 | hash=db1db7827195cd159791160c5aaa6209ac9aa2091a4aa5c6928035468f2d5e48
+2026-09-08T10:11:19.290931100 | FROZEN | Risk score: 115 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Withdrawal reaches the configured daily limit (+45)
+- High-value transaction shortly after PIN change (+15) | previous=db1db7827195cd159791160c5aaa6209ac9aa2091a4aa5c6928035468f2d5e48 | hash=afdf465311a6231908e8ef76f4103a8fd63bfef1ab2d6db557d2ded69f78e280
+2026-09-08T10:12:22.773897300 | LOGIN | Authenticated account 1001001 | previous=afdf465311a6231908e8ef76f4103a8fd63bfef1ab2d6db557d2ded69f78e280 | hash=7662980f28ba0047f6a142bb79607e7cde42a72e6375c20b24cc09b8f23298d3
+2026-09-08T10:12:22.797411500 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=7662980f28ba0047f6a142bb79607e7cde42a72e6375c20b24cc09b8f23298d3 | hash=8487fa0c9a42758bed4171985cfef16c9af2a36476f8efc5d3682bd4c80c2a3d
+2026-09-08T10:12:22.827657500 | FROZEN | Risk score: 115 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Withdrawal reaches the configured daily limit (+45)
+- High-value transaction shortly after PIN change (+15) | previous=8487fa0c9a42758bed4171985cfef16c9af2a36476f8efc5d3682bd4c80c2a3d | hash=2d81394e9b1058d8ea2b726dd5e963a5cc0e79ca9d9dbdfa89fb25962151d250
+2026-09-08T10:14:23.031104700 | LOGIN | Authenticated account 1001002 | previous=2d81394e9b1058d8ea2b726dd5e963a5cc0e79ca9d9dbdfa89fb25962151d250 | hash=58e06f1039a652377538cd567bbf08513b0ad35c94f8f1c803de3ad96623b47e
+2026-09-08T10:14:23.059725300 | SESSION_OPEN | Session opened for 1001002 | previous=58e06f1039a652377538cd567bbf08513b0ad35c94f8f1c803de3ad96623b47e | hash=ff43d55cfe2a69281d4c4bf729f28fa97132a4cbe7833520e34c419692839185
+2026-09-08T10:14:30.813742800 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=ff43d55cfe2a69281d4c4bf729f28fa97132a4cbe7833520e34c419692839185 | hash=10bdcd6faf796661f3152dbf96a95e374467b2844343f0c1e017376822a3bde0
+2026-09-08T10:14:30.824026600 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=10bdcd6faf796661f3152dbf96a95e374467b2844343f0c1e017376822a3bde0 | hash=00402c5caf2aef3258a8356f372f8e4878347678b2b13238942dd787e620bf8f
+2026-09-08T10:14:30.825027600 | CHALLENGE | Risk score: 40 | Decision: CHALLENGE
+- Terminal has not been used by this account before (+20)
+- New channel used after recent activity on other channels (+20) | previous=00402c5caf2aef3258a8356f372f8e4878347678b2b13238942dd787e620bf8f | hash=7b25c9fe850473253abcda4fa818a32f9860a983d4a09580d908664d616cf3b4
+2026-09-15T11:00:07.045751800 | LOGIN | Authenticated account 1001002 | previous=7b25c9fe850473253abcda4fa818a32f9860a983d4a09580d908664d616cf3b4 | hash=a8784e5ed16588f195f48b6c37d19a5b6cc45fad4d4ea8cedc22ca061a5fd05d
+2026-09-15T11:00:07.088322 | SESSION_OPEN | Session opened for 1001002 | previous=a8784e5ed16588f195f48b6c37d19a5b6cc45fad4d4ea8cedc22ca061a5fd05d | hash=9d88bfeafa97b84b62fd9d810e9768edee6f70501251908511fc1924cef3b30f
+2026-09-15T11:00:10.884905100 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=9d88bfeafa97b84b62fd9d810e9768edee6f70501251908511fc1924cef3b30f | hash=698dc212c7c88bff75ac1f8b1d0c4d4f94f422e401ccdc6d9a629ecda3982b54
+2026-09-22T22:28:00.872863400 | LOGIN | Authenticated account 1001002 | previous=698dc212c7c88bff75ac1f8b1d0c4d4f94f422e401ccdc6d9a629ecda3982b54 | hash=4ffe87843eac9280b46d2c6021bc1958b9a23dd2b9cd3723fccf460b1a2fdd60
+2026-09-22T22:28:00.931087100 | SESSION_OPEN | Session opened for 1001002 | previous=4ffe87843eac9280b46d2c6021bc1958b9a23dd2b9cd3723fccf460b1a2fdd60 | hash=734ddc61b8bcc95bc4179407e2758bd9a030914fd8d606ab88aa48a9c345a340
+2026-09-22T22:28:13.649831800 | BALANCE_ENQUIRY | Risk score: 0 | Decision: ALLOW | previous=734ddc61b8bcc95bc4179407e2758bd9a030914fd8d606ab88aa48a9c345a340 | hash=22cf233ed13a08c6af878151098f502bd8e129fb376d8fa6ee0e53e9c18c65b2
+2026-09-22T22:28:21.035625300 | BALANCE_ENQUIRY | Risk score: 0 | Decision: ALLOW | previous=22cf233ed13a08c6af878151098f502bd8e129fb376d8fa6ee0e53e9c18c65b2 | hash=69f097a8a2762d61faca0a0c92a324233e411220628ffae6794b3d54253256ca
+2026-09-22T22:28:25.147265800 | LOGIN | Authenticated account 1001002 | previous=69f097a8a2762d61faca0a0c92a324233e411220628ffae6794b3d54253256ca | hash=f75265eaed317ac45706580d5c9561c4ee534e56e2610aed30833ca373532c3b
+2026-09-22T22:28:25.147265800 | SESSION_OPEN | Session opened for 1001002 | previous=f75265eaed317ac45706580d5c9561c4ee534e56e2610aed30833ca373532c3b | hash=409938105fc380a4ec0b13205427f6218bb221283c81d1a855d9684150e71e55
+2026-09-22T22:28:27.078580900 | BALANCE_ENQUIRY | Risk score: 0 | Decision: ALLOW | previous=409938105fc380a4ec0b13205427f6218bb221283c81d1a855d9684150e71e55 | hash=517927b2a6fc1aa83ba2b9265d118048e213af70d2d9ceffd0f5b31ab12e9c01
+2026-09-22T22:28:27.741578 | BALANCE_ENQUIRY | Risk score: 40 | Decision: CHALLENGE
+- Several transactions occurred within five minutes (+40) | previous=517927b2a6fc1aa83ba2b9265d118048e213af70d2d9ceffd0f5b31ab12e9c01 | hash=2e9feceeab1eab424b717bcea628d0af33a7eae246fc5cfb89fc945104e7edc6
+2026-09-22T22:28:28.517686300 | BALANCE_ENQUIRY | Risk score: 40 | Decision: CHALLENGE
+- Several transactions occurred within five minutes (+40) | previous=2e9feceeab1eab424b717bcea628d0af33a7eae246fc5cfb89fc945104e7edc6 | hash=66ff13e334b00d692d93ece06e07d217f3f11306e401d53c942d50ddde939fc4
+2026-09-22T22:28:29.242959200 | BALANCE_ENQUIRY | Risk score: 40 | Decision: CHALLENGE
+- Several transactions occurred within five minutes (+40) | previous=66ff13e334b00d692d93ece06e07d217f3f11306e401d53c942d50ddde939fc4 | hash=0fd618f4bb5333b039e9440660b15400e60a82ba1d0a5901e4994a9238290599
+2026-09-22T22:28:40.242485300 | FROZEN | Risk score: 130 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40)
+- New channel used after recent activity on other channels (+20)
+- High-value transaction shortly after PIN change (+15) | previous=0fd618f4bb5333b039e9440660b15400e60a82ba1d0a5901e4994a9238290599 | hash=84d40e6dbe18be731831b46210e319435d61976ceee354bc88ca37707f050161
+2026-09-24T23:24:58.629624600 | LOGIN | Authenticated account 1001001 | previous=84d40e6dbe18be731831b46210e319435d61976ceee354bc88ca37707f050161 | hash=126a70a1a33c85706a2ff617c55ce80c21f457c60b856259a34d87b51a475b78
+2026-09-24T23:24:58.659979 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=126a70a1a33c85706a2ff617c55ce80c21f457c60b856259a34d87b51a475b78 | hash=05dfdb3b3649969366a7f64ff4d90390828fcae3d347edc1cfbbbd30e75ea238
+2026-09-24T23:24:58.690228 | FROZEN | Risk score: 115 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Withdrawal reaches the configured daily limit (+45)
+- High-value transaction shortly after PIN change (+15) | previous=05dfdb3b3649969366a7f64ff4d90390828fcae3d347edc1cfbbbd30e75ea238 | hash=73926e7c5dae57b79935107515e71412c38bcf42d48aaed2c9db55d664de1948
+2026-09-24T23:25:54.261612300 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=73926e7c5dae57b79935107515e71412c38bcf42d48aaed2c9db55d664de1948 | hash=b17594df201a616eb759abcd0900c08aa08b17d8c559aad201936a0cdff69ae4
+2026-09-24T23:26:06.980895200 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=b17594df201a616eb759abcd0900c08aa08b17d8c559aad201936a0cdff69ae4 | hash=d4a9b314e2934f5d1b66a1e8cae949723d769a2c8be0753c027e12dcd3c947bf
+2026-09-24T23:26:07.316045500 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=d4a9b314e2934f5d1b66a1e8cae949723d769a2c8be0753c027e12dcd3c947bf | hash=d4397d75a151bdf92c4195f202ae1e0b95d8f53fa7c97d331a4b009460c4b877
+2026-09-24T23:28:39.221589500 | LOGIN | Authenticated account 1001001 | previous=d4397d75a151bdf92c4195f202ae1e0b95d8f53fa7c97d331a4b009460c4b877 | hash=dabe276c837349b30d6d4face2e20f02613a7e866280963f53f49b39580be08a
+2026-09-24T23:28:39.242244100 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=dabe276c837349b30d6d4face2e20f02613a7e866280963f53f49b39580be08a | hash=4a2dd25267dfbb1ea6bd561836a001c68d874fbda312055d057bb393b4121428
+2026-09-24T23:28:39.263078700 | FROZEN | Risk score: 115 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Withdrawal reaches the configured daily limit (+45)
+- High-value transaction shortly after PIN change (+15) | previous=4a2dd25267dfbb1ea6bd561836a001c68d874fbda312055d057bb393b4121428 | hash=daf1a7aa7e7908c270581109c023d2b68e247b36f57529785e2904ede79b985c
+2026-09-24T23:29:00.183148900 | LOGIN | Authenticated account 1001001 | previous=daf1a7aa7e7908c270581109c023d2b68e247b36f57529785e2904ede79b985c | hash=fc39dd6f01ed029544d8aa532cb8e5baa7e8aedab0fb7773c99f061129379cf8
+2026-09-24T23:29:00.213555300 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=fc39dd6f01ed029544d8aa532cb8e5baa7e8aedab0fb7773c99f061129379cf8 | hash=6302e4c9492873336689777c22825a6d42daa916591d28da3811f97b87deb6cc
+2026-09-24T23:29:00.249638600 | FROZEN | Risk score: 115 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Withdrawal reaches the configured daily limit (+45)
+- High-value transaction shortly after PIN change (+15) | previous=6302e4c9492873336689777c22825a6d42daa916591d28da3811f97b87deb6cc | hash=310530671268c7e5a6ca01c9ea8cd8aa2706cd81368edd4735fa1814208b3e86
+2026-10-06T07:03:41.488847400 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=310530671268c7e5a6ca01c9ea8cd8aa2706cd81368edd4735fa1814208b3e86 | hash=1bfc9234fccc51778c0027ac830c0353fcc1c7c11d270e95282693b9dd230bb5
+2026-10-06T07:03:46.851555300 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=1bfc9234fccc51778c0027ac830c0353fcc1c7c11d270e95282693b9dd230bb5 | hash=06f028e3526407545e2c7104d38e91e2ac6458cc817063445af745a9b48ade34
+2026-10-06T07:04:30.457402 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=06f028e3526407545e2c7104d38e91e2ac6458cc817063445af745a9b48ade34 | hash=8013f6526605ae7d13393b945e35a91579b0285f37ed4a48e7ef98441ac9544f
+2026-10-06T07:04:32.889275400 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=8013f6526605ae7d13393b945e35a91579b0285f37ed4a48e7ef98441ac9544f | hash=18b6849a6636f972c831bf696a85115b3721c4b32bbd5e90f302d9f5e8dcaba7
+2026-10-06T07:04:46.256501900 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=18b6849a6636f972c831bf696a85115b3721c4b32bbd5e90f302d9f5e8dcaba7 | hash=80f50fbf1f384410d9c885dad553be157e3436c7afbcebb17b41ae77cd28e220
+2026-10-06T07:04:58.101307400 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=80f50fbf1f384410d9c885dad553be157e3436c7afbcebb17b41ae77cd28e220 | hash=4b386fc1a88c1a097519035c30aa4ffe56c101a8987d5718e32200682f102203
+2026-10-06T07:04:59.050119200 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=4b386fc1a88c1a097519035c30aa4ffe56c101a8987d5718e32200682f102203 | hash=ee7385c962e2c2cfe6470040a4a87f8f64ce5350c35ad894bf19345a51474947
+2026-10-06T07:05:07.083861500 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=ee7385c962e2c2cfe6470040a4a87f8f64ce5350c35ad894bf19345a51474947 | hash=6d8b45e6c8c207e401a3471fbb0388071f7742dc4870ee84e9055a307d06a5ee
+2026-10-06T07:05:46.060343600 | ACCOUNT_UNFROZEN | Administrator unfroze 1001002 | previous=6d8b45e6c8c207e401a3471fbb0388071f7742dc4870ee84e9055a307d06a5ee | hash=d67159951d240f0baf7aefcd8a6004c08b22e131d0d6315f1cee6b1950d82404
+2026-10-06T07:05:51.407691900 | ACCOUNT_UNFROZEN | Administrator unfroze 1001001 | previous=d67159951d240f0baf7aefcd8a6004c08b22e131d0d6315f1cee6b1950d82404 | hash=eb69a98cd6c6863d3025983fbeca0c2471804fc7ebd3c5e20527dcef5475ccb6
+2026-10-06T07:06:05.191998200 | LOGIN | Authenticated account 1001002 | previous=eb69a98cd6c6863d3025983fbeca0c2471804fc7ebd3c5e20527dcef5475ccb6 | hash=1f85c45cb5c2b770803156ebf0ea0af8ff18e2b588ad08fc5c0e1300e55e8fc5
+2026-10-06T07:06:05.223727 | SESSION_OPEN | Session opened for 1001002 | previous=1f85c45cb5c2b770803156ebf0ea0af8ff18e2b588ad08fc5c0e1300e55e8fc5 | hash=e5fcb7c363ad7cff72d6cf03d03593e2d571bf40850b5d0c4ce1ba6bc93a33b5
+2026-10-06T07:06:15.811035500 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=e5fcb7c363ad7cff72d6cf03d03593e2d571bf40850b5d0c4ce1ba6bc93a33b5 | hash=117d62e94c8903ee8666c5a1fa9be9c8bb8527c9bdb1c58554f8ba07801e57cd
+2026-10-06T07:06:49.045541 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=117d62e94c8903ee8666c5a1fa9be9c8bb8527c9bdb1c58554f8ba07801e57cd | hash=1d5b8a5bbc1f91a147d0097e5fdfcc37c42699287ae45b38a1ace5407f4c773d
+2026-10-06T07:06:49.048067600 | WITHDRAWAL | Risk score: 20 | Decision: ALLOW
+- Terminal has not been used by this account before (+20) | previous=1d5b8a5bbc1f91a147d0097e5fdfcc37c42699287ae45b38a1ace5407f4c773d | hash=37b5ab416af90bcfbb1f9be44fb06ac7dbb825568b173f197b058c9eaaf72f4f
+2026-10-06T07:06:49.048067600 | CHALLENGE | Risk score: 60 | Decision: CHALLENGE
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40) | previous=37b5ab416af90bcfbb1f9be44fb06ac7dbb825568b173f197b058c9eaaf72f4f | hash=f35524a12fbd790d548c5869768b225cf20ee0d4c69b26357ce9c7ba27261d15
+2026-10-06T07:06:49.113387 | CHALLENGE | Risk score: 60 | Decision: CHALLENGE
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40) | previous=f35524a12fbd790d548c5869768b225cf20ee0d4c69b26357ce9c7ba27261d15 | hash=b784fa9cf0fef288b9afcdd3d8388009fdbcafaeed003788a1bf5ba23c209275
+2026-10-06T07:07:05.454822900 | FROZEN | Risk score: 110 | Decision: FREEZE
+- Withdrawal is unusually high for this profile (+35)
+- Terminal has not been used by this account before (+20)
+- Several transactions occurred within five minutes (+40)
+- High-value transaction shortly after PIN change (+15) | previous=b784fa9cf0fef288b9afcdd3d8388009fdbcafaeed003788a1bf5ba23c209275 | hash=daabfa46da0e3704060f826978fe98ad51b217bec6be694dff792d0bf5fbf6ee
+2026-10-06T07:07:33.511895100 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=daabfa46da0e3704060f826978fe98ad51b217bec6be694dff792d0bf5fbf6ee | hash=abbc3f51250ddc190608e3fa9b45edd249c4173d4827220a3437af7b68cc9ce6
+2026-10-06T07:07:41.939468800 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=abbc3f51250ddc190608e3fa9b45edd249c4173d4827220a3437af7b68cc9ce6 | hash=592a7b14755181e4f4238e1b349af2c3cdd4d567557c4af12c9d0e68337035ad
+2026-10-06T07:07:42.895013700 | FAILED_LOGIN | Account 1001002: Account is frozen | previous=592a7b14755181e4f4238e1b349af2c3cdd4d567557c4af12c9d0e68337035ad | hash=c08beafa906c197d6ceba3ccf3c5410873dc8d3799ebfd7e9d925332d62fb432
+2026-10-06T07:07:56.904713900 | ACCOUNT_UNFROZEN | Administrator unfroze 1001002 | previous=c08beafa906c197d6ceba3ccf3c5410873dc8d3799ebfd7e9d925332d62fb432 | hash=cab75361604ff324e405ce09f0a40b51c6cfeb00c40b6c155410a1875c1aa9c5
+2026-10-06T07:08:00.394656900 | LOGIN | Authenticated account 1001002 | previous=cab75361604ff324e405ce09f0a40b51c6cfeb00c40b6c155410a1875c1aa9c5 | hash=2c7d13410266343baad394c650de58a31e97357cdf4577cd41cf74f7be9037a4
+2026-10-06T07:08:00.396670900 | SESSION_OPEN | Session opened for 1001002 | previous=2c7d13410266343baad394c650de58a31e97357cdf4577cd41cf74f7be9037a4 | hash=881ff547d0e32bad4efdbe5a21901d48f2ea6f57d58c1cf52f67cb985d440d5d
+2026-10-06T07:11:27.560393500 | WITHDRAWAL | Risk score: 0 | Decision: ALLOW | previous=881ff547d0e32bad4efdbe5a21901d48f2ea6f57d58c1cf52f67cb985d440d5d | hash=1b7e4bf2523c2c3c363a05bf1861e62e987559133ab17d202c191a971e0856e4

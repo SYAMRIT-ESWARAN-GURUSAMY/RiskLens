@@ -1,0 +1,13 @@
+Expected command:
+java -cp out sentinelx.app.Main --demo
+
+Representative output:
+
+=== SentinelX first-quarter demonstration ===
+Normal withdrawal: ALLOW (risk 0)
+Balance: Rs. 74000.00
+Security response: Additional verification required: Risk score: 55 | Decision: CHALLENGE
+Audit log: data/audit.log
+
+The virtual-thread monitor may additionally print this line; its exact position is asynchronous:
+[monitor] WITHDRAWAL received from ATM
